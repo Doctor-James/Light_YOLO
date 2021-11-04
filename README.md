@@ -1,2 +1,2 @@
 # Light_YOLO
-the code for Light competition
+第九届全国大学生光电设计竞赛小车题国一上位机代码
